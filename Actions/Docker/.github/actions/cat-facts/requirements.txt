@@ -1,0 +1,4 @@
+# It's recommended to specify version informations for the following dependencies,
+# but they are not force required. If not specified, pip will always fetch the
+# latest version for our Python project.
+requests
