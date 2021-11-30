@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My first GitHub Action, instructed by GitHub Learning Lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragon1573/writing-javascript-actions.git"
+  },
+  "author": "Dragon1573",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dragon1573/writing-javascript-actions/issues"
+  },
+  "homepage": "https://github.com/Dragon1573/writing-javascript-actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0"
+  }
+}
